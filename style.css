@@ -1,16 +1,9 @@
-/* *{
-    background-color: pink;
-} */
+
 
 .clock{
     display: flex;
 }
-/* .mainDiv{
-    height: 30px;
-    width: 100px;
-    background-color: yellowgreen;
-    border-radius: 70px;
-} */
+
 #clock{
     height: 50px;
     width: 100px;
@@ -31,6 +24,4 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    /* transform: translateY(300%); */
-
 }
